@@ -1,5 +1,3 @@
-Claro, aquí tienes un ejemplo de README para tu proyecto de API REST de una clínica en Java:
-
 ---
 
 # 🏥 Clínica API REST
