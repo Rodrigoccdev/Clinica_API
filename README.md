@@ -1,5 +1,3 @@
----
-
 # 🏥 Clínica API REST
 
 ¡Bienvenido al proyecto Clínica API REST! Este proyecto está desarrollado en Java y proporciona una API RESTful para gestionar una clínica médica. En este sistema, los médicos son la entidad principal, y se pueden gestionar sus datos de manera eficiente.
